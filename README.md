@@ -47,7 +47,7 @@ To facilitate database querying and testing, I've assembled an [Insomnia](https:
 
 Running commands with supabase `supabase [command]`
 | Command | Description |
-|-----------|:-------------:|
+|-----------|:-------------|
 | `start` | Start containers for Supabase local development |
 | `status` | Show status of local Supabase containers |
 | `stop` | Stop all local Supabase containers |
